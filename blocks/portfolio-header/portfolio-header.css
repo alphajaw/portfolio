@@ -1,0 +1,24 @@
+.portfolio-header-container
+{
+    /* margin-top: 3% !important; */
+    margin: 0% !important;
+    width: 100% !important;
+}
+.header-main-content
+{
+    display: flex;
+}
+.header-name
+{
+    margin-left: 5% !important;
+    width: 75% !important;
+}
+.header-content
+{
+    width: 25% !important;
+    display: flex;
+}
+.header-nav-list
+{
+    margin-right: 10% !important;
+}

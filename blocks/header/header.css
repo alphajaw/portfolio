@@ -266,3 +266,19 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
+
+
+.nav-hamburger
+{
+  display: none !important;
+}
+.nav-brand
+{
+  display: none !important;
+}
+#nav 
+{
+  max-width: 100% !important;
+  padding: 0 !important;
+  background-color: #DCDCDC !important;
+}

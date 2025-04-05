@@ -1,0 +1,18 @@
+.location-wrapper
+{
+    max-width: 100% !important;
+}
+.location-logo
+{
+    width: 18px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+.location-content
+{
+    display: flex;
+}
+.location-container
+{
+    margin-top: 2% !important;
+}
